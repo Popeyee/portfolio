@@ -1,0 +1,41 @@
+.Project_container{
+    height: 100%;
+    /* width: 70%; */
+    border-color: aliceblue;
+}
+.Project_container h1{
+    color:#0053ac;
+    border-color: #389074;
+}
+.Card_picture{
+    height: 350px;
+    width: 300px;
+}
+.Card_container h1{
+    color:#0053ac;
+}
+.Card_container h1:hover{
+    color: white;
+}
+.Card_container h3{
+    color: #389074;
+}
+.Card_container{
+    border-color: aliceblue; 
+}
+a{ 
+    text-decoration: none; 
+}
+
+.project1{
+    background-image: url('../images/project_11.png')
+}
+.project2{
+    background-image: url('../images/project_2.png');
+}
+.project3{
+    background-image: url('../images/project_3.gif');
+}
+.project4{
+    background-image: url('https://via.placeholder.com/400x600.png?text=Project+four');
+}

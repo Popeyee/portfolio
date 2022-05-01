@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(0, 0, 0);
+  }
+
+body h1{
+  border-color: #389074;
+}
+.Header {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+}
+.Header h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 5.5rem;
+    position: absolute;
+    font-family: Montserrat, sans-serif;
+
+  }
+.Subhead {
+  margin-top: 55px;
+  color: rgb(255, 255, 255);
+  position: relative;
+  top: 10%;
+  width: auto;
+  margin: 0 auto;
+  border-right: 2px solid rgba(25, 25, 25, 0.75);
+  font-size: 180%;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  transform: translateY(-50%);
+  font-family: "Anonymous Pro", monospace !important;
+  animation: typewriter 3s steps(27) 1.5s 1 normal both,
+             blinkTextCursor 0.5s steps(27) infinite normal;
+  }
+  @keyframes typewriter{
+    from{width: 0;}
+    to{width: 15em;}
+  }
+  @keyframes blinkTextCursor{
+    from{border-right-color: rgba(255,255,255,.75);}
+    to{border-right-color: transparent;}
+  }  
+
+.Checkout_button {
+    background-color: transparent;
+    position: absolute;
+    border-color: #0053ac;
+    left: 44%;
+    top: 90%;
+    color: #0053ac;
+}
+
+.Checkout_button:hover{
+  background-color: #389074;
+}
+
+.apepic {
+    position: fixed;
+    left: 85%;
+    height: 250px;
+    top: 70%;
+    z-index:1;
+  }
+
+
+

@@ -1,0 +1,25 @@
+
+.Contact_cont{
+    border-color: aliceblue;
+    height: 100%;
+    width: auto;
+}
+.Contact_cont h1{
+    color:#0053ac;
+}
+
+.Contact_cont p {
+    color: aliceblue;
+}
+
+.Contact_button{
+    color: #0053ac;
+}
+
+.Contact_button:hover{
+    background-color: #389074;
+}
+
+.Contact_logos{
+    border-color: aliceblue;
+}
