@@ -17,7 +17,7 @@ const About = () => {
                         
                     <div ref={ref} className= " About_text  flex flex-column items-center" >
                         <h1 className=' f1 measure bb bw2  pb3 '> About Me </h1>
-                        <h3 className=' pl4  pb5 lh-copy i tj fw4 '> Web developer who loves to transform ideas into reality using code.
+                        <h3 className=' pl4  pb5 lh-copy i tj fw4 '> Web developer/Father who loves to transform ideas into reality using code.
                                             I enjoy being the bridge between engineering and design, and feel right at home as a 
                                             front-end engineer, and currently getting my hands on the back-end too. I'm experienced in developing and designing products for the web, 
                                             from simple landing pages to creating custom websites with ReactJs, Node, Express, Mongo,
