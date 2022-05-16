@@ -4,6 +4,13 @@ import apedad from '../images/apedad.png';
 import 'animate.css';
 
 const Header = () => {
+    const scrollTo = () => {
+        window.scrollTo({
+            top: 850,
+            left: 0,
+            behavior: "smooth"
+        })
+    }
     return (
         <div className='pb6'>
             <div className='Header'>
@@ -11,7 +18,7 @@ const Header = () => {
                 <p className='Subhead anime-typewriter '>and this is my universe...</p>
                 <CheckoutButton />
             </div>
-            <img id="ape-dad" alt="Contact Me" title="Contact Me" className="apepic grow pointer animate__animated animate__pulse animate__infinite" src={apedad}></img>
+            <img id="ape-dad" alt="Contact Me" onClick={scrollTo} title="Contact Me" className="apepic grow pointer animate__animated animate__pulse animate__infinite" src={apedad}></img>
         </div>
 
     )
