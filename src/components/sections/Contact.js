@@ -20,7 +20,7 @@ const Contact = () => {
                     <a href="https://github.com/Popeyee" target="_blank" rel="noreferrer" className="grow">
                         <i className="pa3 devicon-github-original white grow "></i>
                     </a>
-                    <a href="https://www.linkedin.com/in/ali-elalaoui-023208153/" target="_blank" rel="noreferrer" className="grow ml5" >
+                    <a href="https://www.linkedin.com/in/alialaouii/" target="_blank" rel="noreferrer" className="grow ml5" >
                         <i className="pa3 devicon-linkedin-plain white"></i>
                     </a>
                 </div>
