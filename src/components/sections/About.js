@@ -11,7 +11,7 @@ const About = () => {
     return (
               <div className={inView ? " About_container  animate__animated animate__fadeIn animate__fast flex flex-column items-center avenir mb5" : "anim2 About_container flex flex-column items-center avenir"} > 
 
-                <div className='About_box flex items-center  '>
+                <div className='About_box flex flex-wrap items-center  '>
                     <img className="About_pic  justify-start contain w-50" id="profile_pic" alt="Profile Pic" 
                         title="Profile Picture" src={profile_pic1}></img>   
                         

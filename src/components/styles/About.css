@@ -54,9 +54,24 @@ i{
     font-size: 90px;
 }
 
-/* div{
-    overflow: auto;
-} */
-/* .animate__animated.animate__backInUp {
-    --animate-duration: 2s;
-  } */
+@media only screen and (max-width: 600px) {
+    .About_pic{
+        width:300px;
+        height: 50%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .About_box{
+        width:auto;
+    }
+    .About_text h3 {
+        padding-left: 0%;
+        padding: 5%;
+    }
+    .About_logos{
+        justify-content: space-around;
+        margin: 0;
+    }
+
+}
