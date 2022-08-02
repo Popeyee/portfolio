@@ -11,13 +11,13 @@ const About = () => {
     return (
               <div className={inView ? " About_container  animate__animated animate__fadeIn animate__fast flex flex-column items-center avenir mb5" : "anim2 About_container flex flex-column items-center avenir"} > 
 
-                <div className='About_box flex flex-wrap items-center  '>
-                    <img className="About_pic  justify-start contain w-50" id="profile_pic" alt="Profile Pic" 
+                <div className='About_box flex  items-center  '>
+                    <img className="About_pic  justify-center contain w-50" id="profile_pic" alt="Profile Pic" 
                         title="Profile Picture" src={profile_pic1}></img>   
                         
                     <div ref={ref} className= " About_text  flex flex-column items-center" >
                         <h1 className=' f1 measure bb bw2  pb3 '> About Me </h1>
-                        <h3 className=' pl4  pb5 lh-copy i tj fw4 '> Web developer/Father who loves to transform ideas into reality using code.
+                        <h3 className=' pl4  pb5 lh-copy i tc fw4 pa1 '> Web developer/Father who loves to transform ideas into reality using code.
                                             I enjoy being the bridge between engineering and design, and feel right at home as a 
                                             front-end engineer, and currently getting my hands on the back-end too. I'm experienced in developing and designing products for the web, 
                                             from simple landing pages to creating custom websites with ReactJs, Node, Express, Mongo,

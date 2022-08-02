@@ -13,7 +13,7 @@ const Header = () => {
     }
     return (
         <div className='pb6'>
-            <div className='Header '>
+            <div className='Header'>
                 <h1 className='f1 ttu tracked mt0 animate__animated animate__zoomInDown animate__slow'>I'm Ali Elalaoui</h1>
                 <p className='Subhead anime-typewriter '>and this is my universe...</p>
                 <CheckoutButton />

@@ -64,6 +64,8 @@ i{
     }
     .About_box{
         width:auto;
+        display: flex;
+        flex-wrap: wrap;
     }
     .About_text h3 {
         padding-left: 0%;
@@ -72,6 +74,9 @@ i{
     .About_logos{
         justify-content: space-around;
         margin: 0;
+    }
+    .animate__animated .animate__fadeIn .animate__fast {
+        display: none;
     }
 
 }
