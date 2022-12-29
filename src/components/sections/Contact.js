@@ -13,7 +13,7 @@ const Contact = () => {
                  I'm currently looking for any new opportunities,
                  my inbox is always open. Whether you have a question or just
                  want to say hi, I'll try my best to get back to you!
-                 <br></br>P.S Don't be shy if you speak French or Arabic, I speak fluently in both ;)
+                 <br></br>P.S Don't be shy if you speak French or Arabic, I speak fluently in both!
                 </p>
                 <a class="Contact_button f6 fw8 grow no-underline br-pill ba ph4 pv3 mb2 dib bw2 " href="mailto:elhachimiali1@gmail.com">Say Hello</a>
                 <div className="Contact_logos pa4 flex flex-wrap ma2 ">

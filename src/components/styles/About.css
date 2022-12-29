@@ -75,8 +75,5 @@ i{
         justify-content: space-around;
         margin: 0;
     }
-    .animate__animated .animate__fadeIn .animate__fast {
-        display: none;
-    }
 
 }
