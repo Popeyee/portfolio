@@ -13,9 +13,14 @@ const Project = () => {
             <div>
                 <h1 className=' f1 measure bb bw2 mb5 pb3  '> Past Projects </h1>
             </div>      
-            <div className=" flex flex-wrap justify-around w-100 center ">
-                {projects && projects.map((x) => 
-                <Card key={x.id} id={x.id} url={x.url} name={x.name} skills={x.skills}/>
+            <div className="flex flex-wrap justify-around   ">
+                {projects && projects.map((project) => 
+                <Card 
+                    key={project.id} 
+                    id={project.id} 
+                    url={project.url} 
+                    name={project.name} 
+                    skills={project.skills}/>
                 )}
             </div>
         </div>

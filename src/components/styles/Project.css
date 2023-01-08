@@ -7,21 +7,26 @@
     color:#0053ac;
     border-color: #389074;
 }
+
 .Card_picture{
     height: 350px;
     width: 300px;
 }
 .Card_container h1{
     color:#0053ac;
+    margin-bottom: 5%;
 }
 .Card_container h1:hover{
     color: white;
 }
 .Card_container h3{
     color: #389074;
+    margin-top: 0%;
+    margin-bottom: 15%;
 }
 .Card_container{
-    border-color: aliceblue; 
+    border-color: aliceblue;
+    max-width: 20rem  ; 
 }
 a{ 
     text-decoration: none; 
@@ -38,4 +43,25 @@ a{
 }
 .project4{
     background-image: url('../images/project_4.png');
+}
+.project5{
+    background-image: url('../images/project5.png');
+}
+.project6{
+    background-image: url('../images/project6.png');
+}
+.project7{
+    background-image: url('../images/project7.png');
+}
+.project8{
+    background-image: url('../images/project8.png');
+}
+.project9{
+    background-image: url('../images/project9.png');
+}
+.project10{
+    background-image: url('../images/project10.png');
+}
+.project11{
+    background-image: url('../images/project11.png');
 }
