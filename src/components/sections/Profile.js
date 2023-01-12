@@ -65,6 +65,12 @@ const projects = [
       skills: ["HTML, CSS, JS, React, Redux"],
       url: "https://popeyee.github.io/Counter-with-redux/",
     },
+    {
+      id: "project12",
+      name: "Meetups App",
+      skills: ["HTML, CSS, JS, React, NextJs"],
+      url: "https://meetups-app-pied.vercel.app/",
+    },
 
       
 
