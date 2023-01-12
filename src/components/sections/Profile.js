@@ -9,7 +9,7 @@ const projects = [
       id: "project2",
       name: "Face Recognition AI",
       skills: ["HTML, CSS, JS, React, Node, SQL, Heroku"],
-      url: "https://face-recognit1on.herokuapp.com/",
+      url: "https://facerecognition-ni1v.onrender.com/",
     },
     {
         id: "project3",

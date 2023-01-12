@@ -36,6 +36,10 @@ const About = () => {
                     <i class="pa3 devicon-php-plain colored"></i>
                     <i class="pa3 devicon-mongodb-plain-wordmark colored"></i>
                     <i class="pa3 devicon-cplusplus-plain-wordmark colored"></i>
+                    <i class="pa3 white devicon-nextjs-plain-wordmark"></i>
+                    <i class="pa3 devicon-redux-original colored"></i>
+
+
 
                 </div>    
                 
