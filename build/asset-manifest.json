@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.5f6fd3a1.css",
-    "main.js": "/portfolio/static/js/main.9f94183b.js",
+    "main.css": "/portfolio/static/css/main.5cb66d63.css",
+    "main.js": "/portfolio/static/js/main.08fd9943.js",
     "static/js/787.41791249.chunk.js": "/portfolio/static/js/787.41791249.chunk.js",
     "static/media/profile_pic1.png": "/portfolio/static/media/profile_pic1.d0c71b7b065b6e4dc4c4.png",
     "static/media/project_333.png": "/portfolio/static/media/project_333.ee0e7236847f715a885a.png",
+    "static/media/project12.png": "/portfolio/static/media/project12.b9b582b33db1d3492940.png",
     "static/media/apedad.png": "/portfolio/static/media/apedad.3649a843a9697ca15605.png",
     "static/media/project_11.png": "/portfolio/static/media/project_11.698d9338a8ad5262ae44.png",
     "static/media/project_2.png": "/portfolio/static/media/project_2.ecdddbffee5d435e245c.png",
@@ -15,12 +16,12 @@
     "static/media/project5.png": "/portfolio/static/media/project5.496325cb22a2e4e53110.png",
     "static/media/project9.png": "/portfolio/static/media/project9.4077cf6b8fc03f0d9316.png",
     "index.html": "/portfolio/index.html",
-    "main.5f6fd3a1.css.map": "/portfolio/static/css/main.5f6fd3a1.css.map",
-    "main.9f94183b.js.map": "/portfolio/static/js/main.9f94183b.js.map",
+    "main.5cb66d63.css.map": "/portfolio/static/css/main.5cb66d63.css.map",
+    "main.08fd9943.js.map": "/portfolio/static/js/main.08fd9943.js.map",
     "787.41791249.chunk.js.map": "/portfolio/static/js/787.41791249.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f6fd3a1.css",
-    "static/js/main.9f94183b.js"
+    "static/css/main.5cb66d63.css",
+    "static/js/main.08fd9943.js"
   ]
 }
