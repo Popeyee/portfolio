@@ -17,11 +17,12 @@ const About = () => {
                         
                     <div ref={ref} className= " About_text  flex flex-column items-center" >
                         <h1 className=' f1 measure bb bw2  pb3 '> About Me </h1>
-                        <h3 className=' pl4  pb5 lh-copy i tc fw4 '> Web developer/Father who loves to transform ideas into reality using code.
-                                            I enjoy being the bridge between engineering and design, and feel right at home as a 
-                                            front-end engineer, and currently getting my hands on the back-end too. I'm experienced in developing and designing products for the web, 
-                                            from simple landing pages to creating custom websites with ReactJs, Node, Express, Mongo,
-                                             and PostgreSQL. </h3>
+                        <h3 className=' pl4  pb5 lh-copy i tc fw4 '> 
+                            A highly motivated and passionate Junior Full Stack Developer with a focus on front-end development,
+                            utilizing JavaScript, React, Redux, Router, Next.js and Node. Strong skills and experience with a portfolio
+                            of self-taught projects, including building web applications, handling state management and implementing 
+                            responsive design. Eager to apply and expand these skills in a professional setting and grow as a developer. 
+                        </h3>
                     </div> 
 
                 </div>

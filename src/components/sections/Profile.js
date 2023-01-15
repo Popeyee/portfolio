@@ -6,6 +6,12 @@ const projects = [
       url: "https://popeyee.github.io/robofriends/",
     },
     {
+      id: "project13",
+      name: "Quotes App",
+      skills: ["HTML, CSS, JS, React, Router@5"],
+      url: "https://popeyee.github.io/quotes",
+    }, 
+    {
       id: "project2",
       name: "Face Recognition AI",
       skills: ["HTML, CSS, JS, React, Node, SQL, Heroku"],
@@ -16,6 +22,18 @@ const projects = [
         name: "Food Order App",
         skills: ["HTML, CSS, JS, React"],
         url: "https://popeyee.github.io/Food-Order-App/",
+    },
+    {
+      id: "project12",
+      name: "Meetups App",
+      skills: ["HTML, CSS, JS, React, NextJs"],
+      url: "https://meetups-app-pied.vercel.app/",
+    },
+    {
+      id: "project8",
+      name: "Expenses tracker ",
+      skills: ["HTML, CSS, JS, React"],
+      url: "https://popeyee.github.io/Expenses_Tracker/",
     },
     {
       id: "project4",
@@ -42,12 +60,6 @@ const projects = [
       url: "https://popeyee.github.io/input-form-custom-hooks/",
     },
     {
-      id: "project8",
-      name: "Expenses tracker ",
-      skills: ["HTML, CSS, JS, React"],
-      url: "https://popeyee.github.io/Expenses_Tracker/",
-    },
-    {
       id: "project9",
       name: "Tasks Manager",
       skills: ["HTML, CSS, JS, React, React Hooks"],
@@ -65,15 +77,7 @@ const projects = [
       skills: ["HTML, CSS, JS, React, Redux"],
       url: "https://popeyee.github.io/Counter-with-redux/",
     },
-    {
-      id: "project12",
-      name: "Meetups App",
-      skills: ["HTML, CSS, JS, React, NextJs"],
-      url: "https://meetups-app-pied.vercel.app/",
-    },
-
-      
-
+    
 ]
 
 
