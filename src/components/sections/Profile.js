@@ -9,7 +9,7 @@ const projects = [
       id: "project13",
       name: "Quotes App",
       skills: ["HTML, CSS, JS, React, Router@5"],
-      url: "https://popeyee.github.io/quotes",
+      url: "https://popeyee.github.io/Quotes-app-routerV5/",
     }, 
     {
       id: "project2",
